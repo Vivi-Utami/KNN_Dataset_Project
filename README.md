@@ -1,12 +1,12 @@
-Description
+#Description
 
- This project aims to apply several classification models on KNN dataset and find out which gives the best accuracy. This dataset contains the result of height, weight, dan gender.
+This project aims to apply several classification models on KNN dataset and find out which gives the best accuracy. This dataset contains the result of height, weight, dan gender.
 
-Dataset
+#Dataset
 
- The dataset used comes from scikit-learn.
+The dataset used comes from scikit-learn.
 
-Keywords:
+#Keywords:
 
 - K-Nearest Neighbours | KNN
 - Model Machine Learning
